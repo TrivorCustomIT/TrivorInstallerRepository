@@ -1,0 +1,2 @@
+# TrivorInstallerRepository
+Binários privados
